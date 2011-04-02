@@ -1,0 +1,10 @@
+sliderrr.js
+
+JavaScript framework for creating presentations. Uses CSS3 Transformations to change the viewport to match the current slide.
+
+Setup:
+1) gem install compass
+2) compass compile
+3) open index.html
+
+
